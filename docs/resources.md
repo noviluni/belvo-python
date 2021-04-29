@@ -951,7 +951,7 @@ statements = client.Statements.create(
 statements = client.Statements.create(
     "b91835f5-6f83-4d9b-a0ad-a5a249f18b7c",
     "161a5e4d-67f5-4760-ae4f-c1fe85cb20ca",
-    "20192,
+    "2019",
     "12",
     encryption_key="your-encryption-key"
 )
